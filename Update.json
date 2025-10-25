@@ -1,0 +1,11 @@
+{
+  "Version": "1.0",
+  "Notification": "Updatev1.",
+  "Update": [
+    {
+      "Name": "pvtclient.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/AutoSbTdBlue/main/pvtclient.jar",
+      "Path": "\\"
+    }
+  ]
+}
